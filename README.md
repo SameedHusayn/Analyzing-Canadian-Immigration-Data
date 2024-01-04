@@ -81,7 +81,7 @@ I built an interactive dashboard to allow users to dynamically explore the immig
 We can drill down from Continents to Regions and then to Countries by clicking on the bars.
 ![Interactive Dashboard](/images/interactive1.jpg)
 ![Interactive Dashboard](/images/interactive2.jpg)
-The Go Back button brings out the roll back functionalities, allowing us to go from Country to Region and then to Continent again.
+The **Go Back** button brings out the roll back functionalities, allowing us to go from Country to Region and then to Continent again.
 ![Interactive Dashboard](/images/interactive3.jpg)
 
 ## Conclusions
